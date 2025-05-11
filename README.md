@@ -120,4 +120,3 @@ cmake .. -DUSER_PROJECT_NAME=MyApp -DUSER_C_STANDARD=17 -DUSER_CXX_STANDARD=20 -
 ### 许可证
 
 该项目采用 MIT 许可证，请参阅 LICENSE 文件了解更多信息。
->>>>>>> 7395de8 (first commit)
