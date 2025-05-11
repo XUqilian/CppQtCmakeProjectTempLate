@@ -3,3 +3,12 @@
 .vs/
 .build/
 .CMakePresets.json
+
+# Ignore Vim swap files
+*.swp
+*.swo
+*.swk
+
+# Ignore Vim backup files
+*~
+.*.un~
